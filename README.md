@@ -1,16 +1,33 @@
-# calapp
+# 📱 RushCal - A Simple Flutter Calculator App
 
-A new Flutter project.
+**RushCal** is a clean and efficient calculator app built with Flutter. It performs basic arithmetic operations and offers a smooth and intuitive user interface for fast and easy calculations.
 
-## Getting Started
+## ✨ Features
 
-This project is a starting point for a Flutter application.
+- 🔢 Basic arithmetic operations: Add, Subtract, Multiply, Divide
+- 💡 Real-time input and result updates
+- 🧼 Clear and backspace functionality
+- 🎨 Custom UI with a modern design
+- 📱 Built with Flutter for Android
 
-A few resources to get you started if this is your first Flutter project:
+## 📦 APK Download
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+You can download the latest release APK and install it on your Android device:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[![Download APK](https://img.shields.io/badge/Download-APK-green?style=for-the-badge&logo=android)](https://github.com/Mustafa-Roshdy/RushCal/releases/latest/download/app-release.apk)
+
+## 📷 Screenshots
+
+> Example:  
+> ![App Screenshot]([screenshots/screenshot1.png](https://github.com/Mustafa-Roshdy/RushCal/blob/main/rushcal.png))
+
+## 🚀 Getting Started
+
+Clone the repo and run it locally:
+
+```bash
+git clone https://github.com/Mustafa-Roshdy/RushCal.git
+cd RushCal
+flutter pub get
+flutter run
+
