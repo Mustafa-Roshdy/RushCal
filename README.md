@@ -19,7 +19,7 @@ You can download the latest release APK and install it on your Android device:
 ## 📷 Screenshots
 
 > Example:  
-> ![App Screenshot]([https://github.com/Mustafa-Roshdy/RushCal/blob/main/rushcal.png](https://github.com/Mustafa-Roshdy/RushCal/blob/main/rushcal.png?raw=true))
+> ![App Screenshot](https://github.com/Mustafa-Roshdy/RushCal/blob/main/rushcal.png?raw=true)
 
 ## 🚀 Getting Started
 
